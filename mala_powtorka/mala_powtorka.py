@@ -1,7 +1,7 @@
 zakupy = {
     "Sklep z pieczywem" : ["chleb", "bulki", "paczek"],
     "Sklep z warzywami" : ["marchew", "seler", "rukola"]
-}
+} # do tych sklepów chodzę zawsze
 print("Lista zakupów " )
 licznik = 0
 for key, value in zakupy.items() :
