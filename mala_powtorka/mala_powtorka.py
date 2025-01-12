@@ -10,3 +10,4 @@ for key, value in zakupy.items() :
         licznik = licznik + 1
     print(f"Idę do {key.capitalize()} i kupuję tam : {", ".join(value)} ")
     print (f"W sumie kupuję: {licznik} produktów.")
+    # Specjalne pozdrowienia
