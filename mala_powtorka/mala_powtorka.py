@@ -1,6 +1,6 @@
 zakupy = {
-    "piekarnia" : ["chleb", "bulki", "paczek"],
-    "warzywniak" : ["marchew", "seler", "rukola"]
+    "Sklep z pieczywem" : ["chleb", "bulki", "paczek"],
+    "Sklep z warzywami" : ["marchew", "seler", "rukola"]
 }
 print("Lista zakupów " )
 licznik = 0
